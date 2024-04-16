@@ -1,4 +1,4 @@
-Criação de uma API escrita em Python e utilizando o Postman para a:
+Criação de uma API escrita em Python e utilizando o Postman para as funções de:
   - Consulta de livros
   - Edição de livros
   - Criação de livros
